@@ -1,0 +1,128 @@
+<!DOCKTYPE html> 
+<html>
+	<head>
+	<meta charset="utf-8">
+		<title>Hurricanes</title>
+		<link rel="stylesheet" type="text/css" href="CSS1.css" />
+	</head>
+	<body>
+		
+		<table id="table" border="3";cellpadding="10";cellspacing="5">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</script>
+		<div id="container">
+			<div id="header">
+				<h3>Natural dissasters in Puerto Rico</h3>
+				
+		</div>
+		<div id="content">
+			<div id="nav">
+			
+				<th><h3>Navigation</h3>
+					
+					<ul>
+					<li><button type="button" onclick="funClick"() alt="references"><a href="referrences">Referrences</Li></a>
+					<li><button type="button" onclick="funClick"() alt="conctacts"><a href="contact">Contact</li></a>
+					
+					</th>
+					</ul>
+			
+			</div>
+			
+			<div id="main">
+				<h2>Home page</h2><!--this will be a summary of what this website is about--> 
+				<!--top 2 natural disasters-->
+				<hr>
+				
+				<p id="intro">The purpose of this webpage is to show and educate the people about the dangers and the true meaning behind the recent hurricanes, and what it might mean for the future. I have decided to make a webpage about this subject because i wish never to forget hurricane Maria and its effects on the infrastructure and the people of Puerto Rico.<br>
+				Hurricanes are the largest, most violent and one of the most destructive Hurricanes use warm and humid air for. Therefore they can only form in warm water oceans, near the equator. <br><img  src="formationH.jpg" style="width:550px;height:360px;" alt= "image showing where hurricanes form"><!--https://spaceplace.nasa.gov/hurricanes/en/-->
+					<br>
+				</p>
+			</pre>
+			
+		
+			
+			<div id="Hurricanes">
+			<h2>Hurricanes</h2>
+			<hr>
+			<p id="Essay2">Hurricanes are strong storms that have a well-defined center of circulation that cause heavy rains, winds, thunderstorms, waves and in severe cases the loss of human life and property. Hurricanes in Puerto Rico are relatively common, but they rarely directly impact the island, but in recent times, especially with the passage of Hurricane María, I have been interested in these atmospheric phenomena, especially due to their rarity since it was a hurricane.
+			Category 5 on the Saffir-Simpson scale, because the last category 5 hurricane to impact the island directly was Hurricane San Felipe II on September 13, 1928 with sustained winds of 160MPH
+			It can be seen that major hurricanes have become the norm in modern times and likewise can be so unpredictable at times and happen spontaneously. <br>
+			<h3>Their predictibility</h3>
+			<hr>
+			<br>
+			Although meteorologists can be almost 100% certain where a hurricane is going at times, sometimes they change course unexpectedly, this can cause people to panic.
+			An example of this is Hurricane Dorian, which at one point was heading in between the Dominican Republic and Puerto Rico, but then change course within a couple of hours almost hitting Puerto Rico directly but it eventually changed curse to the north-east of the Island directly into the Atlantic Ocean.  Systems predicted that it would only be a small tropical storm or weak hurricane upon arrival to the Bahamas, but it ended up becoming the first category 5 hurricane of the season to be a catastrophic hurricane with winds between 185mph to max 240mph, and eventually staying there stationary for a very long period of time. This change took everyone by surprise, no one expected this storm to be of such magnitude and create such historical destruction in the Bahamas. According to experts, the trajectories of erratic models were due to its "size". 
+
+			Dorian was a relatively small storm, what happens with these types of storms is that they move alot faster than "normal sized storms" and they are also so small that, with any change in winds, high or low pressures and the possible infloence of larger storms, they can move erratically and without warning. This sometimes may cause the models to be incorrect. Unlike bigger storms like Irma, Maria or José, being so big from the beginning, they are much slower and are not affected at the same level as a small storm. A small storm can also suddenly become stronger. Some hurricanes are more "predictable" than others, but they are all different. <br>
+<h3>How are hurricane magnitude measured; And their damage ammount?</h3> 
+<hr>
+<br>
+<ul>
+Hurricane categories are measured on the Saffir Simpson scale. The Saffir-Simpson Scale was created in 1971 by Herbert Saffir and meteorologist Robert Simpson, it is a hurricane wind scale in which it is rated 1 to 5 based on the sustained wind speed of a hurricane.
+ These are according to information realezed by the National Hurricane Center (2019): <li><h4>Category 1:</h4></li> Sustained winds of 74-95 MPH. Very dangerous winds will do some damage: well-built frame houses could damage the roof. 
+ Large tree branches can break and trees with shallow roots can fall. Extensive damage to power lines and poles will likely cause power outages that could last from a few to several days. <li><h4>Category 2:</h4></li>  sustained winds of 96-110 MPH. Extremely dangerous winds will cause considerable damage - well-built log houses could suffer significant roof damage.
+ Many trees with shallow roots will be uprooted or uprooted and block numerous roads. An almost total loss of energy is expected with interruptions that could last from several days to weeks. <li><h4>Category 3:</h4></li>  sustained winds of 111-129 MPH. Devastating damage will occur: poorly constructed wooden or concrete houses can be completely flattened. Many trees will be uprooted or uprooted, blocking numerous pathways. Electricity and water will not be available for several days or weeks after the hurricane has passed.
+<li><h4>Category 4:</h4></li>  sustained winds of 130-156 MPH. Catastrophic damage will occur: poorly constructed wooden and concrete houses can be completely flattened, and older buildings can suffer major damage. Probability of loss of human life. Most trees will be uprooted or left without leaves and downed power poles Fallen trees and power poles will isolate residential areas. Power outages will last for weeks or possibly months.
+ Most of an area near a major river or sea or remote area would be uninhabitable for weeks or months. <li><h4>Category 5:</h4></li>  sustained winds of 157+ MPH. Catastrophic damage will occur on a larger scale than a Category 4 hurricane with a high probability of loss of life.
+			</u>
+			<br>
+			<h3>Final toughts and memories</h3><br>
+			I remember when i went outside my home durring the passing of hurricane Maria.
+			 It was about 2pm, my house was starting to flood, water was comming inside, i had to do something, me along with my father and his cousing we went out and opened the backyard door, which was cloughted up with debris from nearby trees. 
+			When i went outside to do what had to be done, I feelt as if some one was using a preasure washer on me, the force of the winds gave me a feeling as if i could fly. The air preasuer was pretty low and my ears were plugged as if i was at high altitudes. The day after, i remember going out of my municipality for the first time, every thing is destroyed i tought, bridges, houses, electricity, and to my surprise every single communication form was out.
+			I went to Juana Diaz, i remember seeing that almost every thing got flooded from the nearby river, many homes where flatened or very destroyed (likely from the 150mph+ winds) I was trully shocked along with my family. It was my first mayor hurricane, and i had seen the effects of it, even to this day you can see thje damadge the hurricane created.
+			Stuff has gotten fixed, some people still dont have homes, and those who have may have lost them due to the recent eathquakes. The NOAA prediction says this year is going to be an even stronger season that 2017. I belive that hurricanes are not to be underestimated they can be very deadly and dangerous for any kind of animal, (this includes humans). A hurricane cannot be stoped with current tecnologies, Global warming and other things are making hurricanes stronger every year. 
+			Hurricanes are the strongest and deadliest of all storms, we should all be ready for another one, "be prepared for the worst, but expect the best".
+			
+			
+			</p>
+			
+			
+			
+				
+				
+				
+			</div>
+			<hr>
+		<div id="footer">
+		
+			Universidad Interamericana recinto de ponce, Hernandez Joseph R. 2020
+		</div>
+		
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</body>
+
+
+
+
+
+
+
+</html>

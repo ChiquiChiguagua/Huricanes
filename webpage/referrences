@@ -1,0 +1,48 @@
+<!DOCKTYPE html> 
+<html>
+	<head>
+	<title>Referrences</title>
+	<link rel="stylesheet" type="text/css" href="CSS1.css" />
+	</head>
+	<style>
+	table, th, td {
+  border: 1px solid black;
+}
+th,td{
+	padding: 15px;
+	
+}
+		</style>
+	<body>
+
+<div id="referrences">
+
+<table style="height:10%">
+
+   
+		<th><li><button type="button" onclick="funClick"() alt="NOAA"><a href="https://www.nhc.noaa.gov/">NOAA</li></a><br></th>
+		<th><li><button type="button" onclick="funClick"() alt="Hurricane predictability"><a href="https://news.fiu.edu/2020/scientists-search-for-predictability-in-future-hurricanes">Predictability</li></a><br></th>
+		<th><li><button type="button" onclick="funClick"() alt="NOAA"><a href="https://www.nhc.noaa.gov/">NOAA</li></a><br></th>
+		<th><li><button type="button" onclick="funClick"() alt="NOAA"><a href="https://www.nhc.noaa.gov/">NOAA</li></a><br></th>
+		<th><li><button type="button" onclick="funClick"() alt="NOAA"><a href="https://www.nhc.noaa.gov/">NOAA</li></a><br></th>
+		<th><li><button type="button" onclick="funClick"() alt="NOAA"><a href="https://www.nhc.noaa.gov/">NOAA</li></a><br></th>
+		
+			
+		
+
+			
+			
+				
+<button type="button" onclick="funClick"()><a href="my website">Go Back: Main Page</a>
+	</ul>
+	
+			
+			</div>
+<hr>
+
+<div id="footer">
+		
+			Universidad Interamericana recinto de ponce, Hernandez Joseph R. 2020
+		</div>
+	</body>
+	</html>
